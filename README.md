@@ -294,4 +294,186 @@ TBD
 
   </details>
 
+  <details>
+    <summary>02 Mark</summary>
+
+TBD
+
+  </details>
+
+  <details>
+    <summary>03 Luke</summary>
+
+TBD
+
+  </details>
+
+  <details>
+    <summary>04 John</summary>
+
+TBD
+
+  </details>
+
+  <details>
+    <summary>05 Acts</summary>
+
+TBD
+
+  </details>
+
+  <details>
+    <summary>06 Romans</summary>
+
+TBD
+
+  </details>
+
+  <details>
+    <summary>07 1st Corinthians</summary>
+
+TBD
+
+  </details>
+
+  <details>
+    <summary>08 2nd Corinthians</summary>
+
+TBD
+
+  </details>
+
+  <details>
+    <summary>09 Galatians</summary>
+
+TBD
+
+  </details>
+
+  <details>
+    <summary>10 Ephesians</summary>
+
+TBD
+
+  </details>
+
+  <details>
+    <summary>11 Philippians</summary>
+
+TBD
+
+  </details>
+
+  <details>
+    <summary>12 Colossians</summary>
+
+TBD
+
+  </details>
+
+  <details>
+    <summary>13 1st Thessalonians</summary>
+
+TBD
+
+  </details>
+
+  <details>
+    <summary>14 2nd Thessalonians</summary>
+
+TBD
+
+  </details>
+
+  <details>
+    <summary>15 1st Timothy</summary>
+
+TBD
+
+  </details>
+
+  <details>
+    <summary>16 2nd Timothy</summary>
+
+TBD
+
+  </details>
+  
+  <details>
+    <summary>17 Titus</summary>
+
+TBD
+
+  </details>
+
+  <details>
+    <summary>18 Philemon</summary>
+
+TBD
+
+  </details>
+
+  <details>
+    <summary>19 Hebrews</summary>
+
+TBD
+
+  </details>
+
+  <details>
+    <summary>20 James</summary>
+
+TBD
+
+  </details>
+
+  <details>
+    <summary>21 1st Peter</summary>
+
+TBD
+
+  </details>
+
+  <details>
+    <summary>22 2nd Peter</summary>
+
+TBD
+
+  </details>
+
+  <details>
+    <summary>23 1st John</summary>
+
+TBD
+
+  </details>
+
+  <details>
+    <summary>24 2nd John</summary>
+
+TBD
+
+  </details>
+
+  <details>
+    <summary>25 3rd John</summary>
+
+TBD
+
+  </details>
+
+  <details>
+    <summary>26 Jude</summary>
+
+TBD
+
+  </details>
+
+  <details>
+    <summary>27 Revelation</summary>
+
+TBD
+
+  </details>
+
 </details>
