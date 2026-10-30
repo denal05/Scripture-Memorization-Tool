@@ -22,8 +22,8 @@ https://bible.com/bible/59/gen.12.3.ESV
   <details>
     <summary>01 Matthew</summary>
 
-      TBD
+TBD
 
-    </details>
+  </details>
 
 </details>
