@@ -196,6 +196,90 @@ Key Verses
 
   </details>
 
+  <details>
+    <summary>Minor Prophets: 01 Hosea</summary>
+
+Key Verses  
+
+  </details>
+
+  <details>
+    <summary>Minor Prophets: 02 Joel</summary>
+
+Key Verses  
+
+  </details>
+
+  <details>
+    <summary>Minor Prophets: 03 Amos</summary>
+
+Key Verses  
+
+  </details>
+
+  <details>
+    <summary>Minor Prophets: 04 Obadiah</summary>
+
+Key Verses  
+
+  </details>
+
+  <details>
+    <summary>Minor Prophets: 05 Jonah</summary>
+
+Key Verses  
+
+  </details>
+
+  <details>
+    <summary>Minor Prophets: 06 Micah</summary>
+
+Key Verses  
+
+  </details>
+
+  <details>
+    <summary>Minor Prophets: 07 Nahum</summary>
+
+Key Verses  
+
+  </details>
+
+  <details>
+    <summary>Minor Prophets: 08 Habakkuk</summary>
+
+Key Verses  
+
+  </details>
+
+  <details>
+    <summary>Minor Prophets: 09 Zephaniah</summary>
+
+Key Verses  
+
+  </details>
+
+  <details>
+    <summary>Minor Prophets: 10 Haggai</summary>
+
+Key Verses  
+
+  </details>
+
+  <details>
+    <summary>Minor Prophets: 11 Zechariah</summary>
+
+Key Verses  
+
+  </details>
+
+  <details>
+    <summary>Minor Prophets: 12 Malachi</summary>
+
+Key Verses  
+
+  </details>
+
 </details>
 
 ----
