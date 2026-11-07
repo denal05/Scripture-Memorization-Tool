@@ -290,7 +290,29 @@ Key Verses
   <details>
     <summary>01 Matthew</summary>
 
-TBD
+      <details>
+        <summary>The Sermon on the Mount</summary>
+          - The Beatitudes
+          - Salt and light
+          - Christ came to fulfill the Law
+          - Anger
+          - Lust
+          - Divorce
+          - Oaths
+          - Retaliation
+          - Love your enemies
+          - Giving to the needy
+          - The Lord's prayer
+          - Fasting
+          - Lay up treasures in Heaven
+          - Do not be anxious
+          - Judging others
+          - Ask, and it will be given
+          - The golden rule
+          - A tree and its fruit
+          - I never knew you
+          - Build your house on the Rock
+      </details>
 
   </details>
 
