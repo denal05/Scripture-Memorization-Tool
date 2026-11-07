@@ -290,29 +290,27 @@ Key Verses
   <details>
     <summary>01 Matthew</summary>
 
-      <details>
-        <summary>The Sermon on the Mount</summary>
-          - The Beatitudes
-          - Salt and light
-          - Christ came to fulfill the Law
-          - Anger
-          - Lust
-          - Divorce
-          - Oaths
-          - Retaliation
-          - Love your enemies
-          - Giving to the needy
-          - The Lord's prayer
-          - Fasting
-          - Lay up treasures in Heaven
-          - Do not be anxious
-          - Judging others
-          - Ask, and it will be given
-          - The golden rule
-          - A tree and its fruit
-          - I never knew you
-          - Build your house on the Rock
-      </details>
+      The Sermon on the Mount
+        01. The Beatitudes
+        02. Salt and light
+        03. Christ came to fulfill the Law
+        04. Anger
+        05. Lust
+        06. Divorce
+        07. Oaths
+        08. Retaliation
+        09. Love your enemies
+        10. Giving to the needy
+        11. The Lord's prayer
+        12. Fasting
+        13. Lay up treasures in Heaven
+        14. Do not be anxious
+        15. Judging others
+        16. Ask, and it will be given
+        17. The golden rule
+        18. A tree and its fruit
+        19. I never knew you
+        20. Build your house on the Rock
 
   </details>
 
